@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 👋 Hi, I'm Tianna Nienow!
 
-<!--
-**tnienow4/tnienow4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Former student of Arizona State University (ASU).  
+- 💻 Currently learning software development.  
+- 📚 Passionate about mathematics and aiming for a Ph.D. in the field.  
+- 🚀 Exploring the intersection of software development and mathematical research.  
+- 🌱 Always curious and eager to learn new technologies and concepts.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or collaborate on exciting projects!
+- 🔭 I’m currently working on learning software development 
+- 🌱 I’m currently learning mathematics for phd
+- 👯 I’m looking to collaborate on python automation 
+- 🤔 I’m looking for help with mathematics in Galois Theory 
+- 💬 Ask me about Python automation and web Dev 
+- 📫 How to reach me: [Contact Email](mailto:tnienow4@asu.edu)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love ❤️ someone 😀 won't tell anyone even him hehe 😜!
